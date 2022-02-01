@@ -54,7 +54,7 @@ Then perform the following commands on the root folder:
 |------|-------------|
 | cluster\_name | Name of the cluster |
 | container\_network\_name | Name of the container network |
-| container\_network\id | Id of the container network |
+| container\_network\_id | Id of the container network |
 | endpoint | Endpoint for the cluster |
 | ca_certificate | Ca cert for the cluster. Can be used later for a Kubernetes apply in a script |
 
